@@ -7,11 +7,11 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Клушка', // ←  Start by adding your name!
-    title: 'Клушинская горка',
-    occupation: 'Катание на скользкостях с кантами и без.',
-    location: 'д.Клушино',
-    bio: 'Оооооо!.',
+    fullname: '', // ←  Start by adding your name!
+    title: '',
+    occupation: '.',
+    location: '',
+    bio: '!',
 
     /**
      * Contact / social
