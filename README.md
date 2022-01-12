@@ -1,2 +1,0 @@
-# klusha
-Begin app
